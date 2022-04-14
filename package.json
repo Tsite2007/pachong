@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "2.3.0",
+    "async": "3.2.2",
     "bluebird": "3.5.0",
     "cheerio": "0.22.0",
     "ejs": "2.5.6",
